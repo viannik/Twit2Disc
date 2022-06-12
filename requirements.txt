@@ -1,0 +1,9 @@
+requests
+requests_toolbelt
+pycryptodome
+requests_toolbelt
+fake_useragent
+loguru
+httpagentparser
+2captcha-python
+snscrape
