@@ -1,6 +1,8 @@
 # Twit2Disc
 The fastest software on the market, works 24/7. Updates twitter every half second
+
 Automatically catches the private link and adds all your discord accounts to the channel
+
 Works in multithreading, and also solves captcha
 
 
